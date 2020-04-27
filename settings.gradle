@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='FirebaseAndroidV_1.0'
